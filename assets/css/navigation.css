@@ -1,0 +1,23 @@
+
+
+
+
+@media screen and (min-width: 1920px) {
+    .navi .navi-list{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-left: -32px;
+        margin-right: -32px;
+        
+    }
+    
+    .navi .navi-list .navi-item{
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+    
+    .navi{
+        margin-left: 672px;
+    }
+  }

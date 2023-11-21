@@ -1,0 +1,53 @@
+.container{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+.column{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.header{
+    max-width: 1440;
+    margin-top: 25px;
+    margin-right: 240px;
+    margin-left: 240px;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.orange-triangle{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+.img-content{
+    position: relative;
+
+}
+.arrow{
+    position: absolute;
+    top: 100px;
+    left: 140px;
+}
+.future-text{
+    position: absolute;
+    top: 171px;
+    left: 140px;
+}
+.sustainability-text{
+    position: absolute;
+    top: 403px;
+    left: 140px;
+}
+.project-btn{
+    position: absolute;
+    top: 493px;
+    left: 140px;
+}
