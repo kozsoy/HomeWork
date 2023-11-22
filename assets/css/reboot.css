@@ -11,6 +11,9 @@ html,body,ul,ol {
 ul,ol {
     list-style: none;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 button {
     border: none;

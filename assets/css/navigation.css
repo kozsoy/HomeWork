@@ -10,14 +10,26 @@
         margin-left: -32px;
         margin-right: -32px;
         
+        
     }
     
-    .navi .navi-list .navi-item{
-        padding-left: 32px;
-        padding-right: 32px;
-    }
-    
-    .navi{
-        margin-left: 672px;
-    }
   }
+.navi-item{
+    padding-left: 32px;
+    color: #fff;
+
+}
+.navi-link{
+    color: #FFF;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Poppins;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.navi-link:hover{
+    background-color: #fff;
+    color: #E24413;;
+}
