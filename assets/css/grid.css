@@ -35,10 +35,10 @@
   }
 .img-content{
     position: relative;
-    background-image: url(file:///C:/Users/kadir/Desktop/VsCodeTest/test/kodlama-%C3%B6devi/icon/Rectangle%205366.svg);
     background-size: cover;
     width: 100%;
     height: 800px;
+    background-image: url(../../icon/Rectangle%205366.svg);
 }
 .arrow{
     position: absolute;
